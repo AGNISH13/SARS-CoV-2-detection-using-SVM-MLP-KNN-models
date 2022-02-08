@@ -10,8 +10,8 @@ www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 ## Features extracted
 In this project, three traditional feature extraction methods have been used to extract the features from the dataset, namely:  
 - `Gabor`  
--	`Gray-Level Co-occurrence Matrix (GLCM)`  
--	`Haralick`  
+- `Gray-Level Co-occurrence Matrix (GLCM)`  
+- `Haralick`  
 Gabor is a linear filter used for texture analysis, which analyses whether there is any specific frequency content in a specific direction.  
 GLCM represents the second order statistical information of gray levels between neighboring pixels in an image.  
 Haralick texture features are calculated from Gray-Level Co-Occurrence Matrix (GLCM). They are common texture descriptors in image analysis.
